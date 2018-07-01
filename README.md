@@ -6,3 +6,5 @@ con sistema de vuelo autonomo por reconocimiento facial
 Universidad Veracruzana
 Maestria en Ingenieria Aplicada
 Region Veracruz
+
+copyright AutonomyLabs y a sus autores originales
